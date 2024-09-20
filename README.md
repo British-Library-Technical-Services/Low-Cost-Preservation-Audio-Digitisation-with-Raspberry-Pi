@@ -6,4 +6,4 @@ The information listed here provides the basis for a workshop presented at the 5
 ## Raspberry Pi
 A series of single board computers (SBC) developed by the [Raspberry Pi Foundation](https://www.raspberrypi.org/).  
 
-The Raspberry Pi 4 and 5 models run on ARM processors, with 4GB and 8GB RAM configurations.  The Pi runs Rasberry Pi OS, a Debian Linux distribution, and is powerful enough to run audio digitsation software.
+Powered by ARM processors, the latest Raspberry Pi models (4 and 5) are available with 4GB or 8GB of RAM. They run Raspberry Pi OS, a Debian-based Linux distribution, and are now powerful enough to handle tasks such as running audio digitisation software.
