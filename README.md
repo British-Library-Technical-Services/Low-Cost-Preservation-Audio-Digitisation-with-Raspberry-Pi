@@ -1,1 +1,2 @@
 # Low-Cost-Preservation-Audio-Digitisation-with-Raspberry-Pi
+This page is designed to provide information on low cost solutions for audio digitisation and preservation.  The information listed here provides the basis for a workshop presented at the 55th International Association of Sound and Audiovisual Archives (IASA) conference, titled [Low Cost Preservation: Audio Digitisation with Raspberry Pi](https://iasavalencia24.sched.com/event/1f7qY/preservation-in-times-of-economic-crisis).
