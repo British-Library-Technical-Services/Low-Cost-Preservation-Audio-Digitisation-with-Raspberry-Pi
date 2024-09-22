@@ -47,7 +47,7 @@ Most of the installed audio software is available to download directly in Raspbe
 * [QHiMDTransfer](https://wiki.physik.fu-berlin.de/linux-minidisc/doku.php?id=qhimdtransfer)
 * [PlatinumMD](https://platinum-md.app/)
 
-#### 4.1.3. ompact Disc
+#### 4.1.3. Compact Disc
 * [Brasero](https://wiki.gnome.org/Apps/Brasero)
 
 #### 4.1.4. File Managment
